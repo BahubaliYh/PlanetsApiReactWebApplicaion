@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PlanetsApiReactWebApplicaion/static/css/main.a9f85f12.chunk.css",
+    "main.js": "/PlanetsApiReactWebApplicaion/static/js/main.ba1116ce.chunk.js",
+    "main.js.map": "/PlanetsApiReactWebApplicaion/static/js/main.ba1116ce.chunk.js.map",
+    "runtime-main.js": "/PlanetsApiReactWebApplicaion/static/js/runtime-main.70657557.js",
+    "runtime-main.js.map": "/PlanetsApiReactWebApplicaion/static/js/runtime-main.70657557.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/PlanetsApiReactWebApplicaion/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.ffa496aa.chunk.js": "/PlanetsApiReactWebApplicaion/static/js/2.ffa496aa.chunk.js",
+    "static/js/2.ffa496aa.chunk.js.map": "/PlanetsApiReactWebApplicaion/static/js/2.ffa496aa.chunk.js.map",
+    "index.html": "/PlanetsApiReactWebApplicaion/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/PlanetsApiReactWebApplicaion/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.a9f85f12.chunk.css.map": "/PlanetsApiReactWebApplicaion/static/css/main.a9f85f12.chunk.css.map",
+    "static/js/2.ffa496aa.chunk.js.LICENSE.txt": "/PlanetsApiReactWebApplicaion/static/js/2.ffa496aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70657557.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.ffa496aa.chunk.js",
+    "static/css/main.a9f85f12.chunk.css",
+    "static/js/main.ba1116ce.chunk.js"
+  ]
+}
