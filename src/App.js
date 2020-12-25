@@ -44,6 +44,7 @@ function App() {
 
   return (
     <Container fluid>
+      {console.log("favorites", favorites)}
       <div className="text-center p-5 text-white bg-dark">
         <h1>My Planets</h1>
       </div>
@@ -66,6 +67,9 @@ function App() {
             </Row>
           </Tab>
           <Tab eventKey="profile" title="Favorite Planets">
+            {favorites.length === 0 && (
+              <h4>You dont have added any favorites planets yet.</h4>
+            )}
             <Row className="justify-content-md-center mt-5">
               {favorites.length > 0 &&
                 favorites.map((favorite) => (

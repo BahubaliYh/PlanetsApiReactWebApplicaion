@@ -18,7 +18,7 @@ const Planet = ({ id, isFavourite, name, handleFavorite }) => {
           <BsHeart
             className="ml-auto my-auto"
             size={32}
-            onClick={() => handleFavorite(id)}
+            onClick={() => handleFavorite(name)}
           />
         )}
       </div>
