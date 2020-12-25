@@ -25,6 +25,16 @@ code {
 
 svg {
   cursor: pointer;
+  transition: transform .2s ease-in;
+}
+
+svg:hover {
+  transform: scale(1.1);
+}
+
+svg:active {
+  color: red;
+  transform: scale(1.1);
 }
 
 .del-icon {
