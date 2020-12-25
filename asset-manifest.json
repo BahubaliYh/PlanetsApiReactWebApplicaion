@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PlanetsApiReactWebApplicaion/static/css/main.a9f85f12.chunk.css",
-    "main.js": "/PlanetsApiReactWebApplicaion/static/js/main.ba1116ce.chunk.js",
-    "main.js.map": "/PlanetsApiReactWebApplicaion/static/js/main.ba1116ce.chunk.js.map",
+    "main.js": "/PlanetsApiReactWebApplicaion/static/js/main.2eee9b6b.chunk.js",
+    "main.js.map": "/PlanetsApiReactWebApplicaion/static/js/main.2eee9b6b.chunk.js.map",
     "runtime-main.js": "/PlanetsApiReactWebApplicaion/static/js/runtime-main.70657557.js",
     "runtime-main.js.map": "/PlanetsApiReactWebApplicaion/static/js/runtime-main.70657557.js.map",
     "static/css/2.1a02f21c.chunk.css": "/PlanetsApiReactWebApplicaion/static/css/2.1a02f21c.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.ffa496aa.chunk.js",
     "static/css/main.a9f85f12.chunk.css",
-    "static/js/main.ba1116ce.chunk.js"
+    "static/js/main.2eee9b6b.chunk.js"
   ]
 }
